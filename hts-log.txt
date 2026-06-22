@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Mon, 22 Jun 2026 13:32:03 at https://sites.google.com/view/yjianglab
+(httrack https://sites.google.com/view/yjianglab -O /Users/yyjiang/jianglab )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:32:10	Warning: 	Found for https://sites.google.com/view/_/ss/
+13:32:10	Warning: 	File has moved from https://sites.google.com/view/_/ss/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://sites.google.com/view/_/ss/&followup=https://sites.google.com/view/_/ss/
+13:32:11	Error: 	"Not Found" (404) at link https://sites.google.com/view/yjianglab/POST (from https://sites.google.com/view/yjianglab/research)
+13:32:12	Error: 	"Not Found" (404) at link https://sites.google.com/view/yjianglab/_/ss/ (from https://sites.google.com/view/yjianglab/research)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 9 links scanned, 5 files written (742840 bytes overall) [274794 bytes received at 30532 bytes/sec], 959052 bytes transferred using HTTP compression in 8 files, ratio 25%
+(2 errors, 2 warnings, 0 messages)
