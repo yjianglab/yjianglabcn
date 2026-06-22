@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Jiang Lab"
-  site-url: "https://yjianglab.github.io/jianglab/"
+  site-url: "https://yjianglab.github.io/yjianglabcn/"
   navbar:
     left:
       - href: index.qmd

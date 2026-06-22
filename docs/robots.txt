@@ -1,1 +1,1 @@
-Sitemap: https://yjianglab.github.io/jianglab/sitemap.xml
+Sitemap: https://yjianglab.github.io/yjianglabcn/sitemap.xml

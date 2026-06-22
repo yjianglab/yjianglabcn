@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yjianglab.github.io/jianglab/people.html</loc>
-    <lastmod>2026-06-22T21:07:02.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yjianglab.github.io/jianglab/publications.html</loc>
+    <loc>https://yjianglab.github.io/yjianglabcn/publications.html</loc>
     <lastmod>2026-06-22T21:39:55.388Z</lastmod>
   </url>
   <url>
-    <loc>https://yjianglab.github.io/jianglab/team.html</loc>
+    <loc>https://yjianglab.github.io/yjianglabcn/team.html</loc>
     <lastmod>2026-06-22T21:53:26.479Z</lastmod>
   </url>
   <url>
-    <loc>https://yjianglab.github.io/jianglab/research.html</loc>
-    <lastmod>2026-06-22T21:11:10.092Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yjianglab.github.io/jianglab/join.html</loc>
+    <loc>https://yjianglab.github.io/yjianglabcn/join.html</loc>
     <lastmod>2026-06-22T22:03:19.115Z</lastmod>
   </url>
   <url>
-    <loc>https://yjianglab.github.io/jianglab/index.html</loc>
+    <loc>https://yjianglab.github.io/yjianglabcn/index.html</loc>
     <lastmod>2026-06-22T21:19:26.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yjianglab.github.io/jianglab/about.html</loc>
-    <lastmod>2026-06-22T20:53:42.799Z</lastmod>
   </url>
 </urlset>
